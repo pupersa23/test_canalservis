@@ -2,6 +2,13 @@
 
 Тестовое задание по работе с Google Spreadsheets
 
+# Технологии:
+
+    Python
+    python-dotenv
+    PostgreSQL
+    GoogleAPI
+
 ## Как запустить проект:
 
 ### Клонировать репозиторий и перейти в него в командной строке:
@@ -29,8 +36,10 @@
     PASSWORD='' #Пароль для доступа в PostgresSQL
     HOST='' #IP для доступа в PostgresSQL
 
+### Скачать и вложить в папку с проектом json файл с Вашего проекта Google Cloud Platform:
+
 ### Запустить проект:
 
     python sheets_test.py
     
-Автор Владимир Рязанов - email ryazanov745@gmail.com
+Автор Владимир Рязанов - email ryazanov745@gmail.com, telegram @pupersa23
